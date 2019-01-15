@@ -6,16 +6,16 @@ html, body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
-titlebar {
+.titlebar {
 	overflow: hidden;
 	background-color: #850400;
 }
-titlebar img {
+.titlebar img {
 	height: 45px; 
 	width: 45px;
 	vertical-align: top;
 }
-titlebar h1 {
+.titlebar h1 {
 	display: inline;
 	line-height: 45px;
 	margin: 12px;
@@ -24,19 +24,19 @@ titlebar h1 {
 	color: white;
 }
 
-frame {
+.frame {
     overflow: hidden;
 	background-color: #2B2C2E;
 	margin: 10px 10px 10px 10px;
 	padding: 5px 5px 5px 5px;
 }
 
-topnav {
+.topnav {
 	overflow: hidden;
 	background-color: #2B2C2E;
 	padding-bottom: 5px
 }
-topnav a {
+.topnav a {
 	float: left;
 	background-color: #54585B;
 	color: white;
@@ -48,25 +48,25 @@ topnav a {
 	border-style: solid;
 	border-color: #54585B;
 }
-topnav a:hover {
+.topnav a:hover {
 	background-color: #ddd;
 	color: black;
 
 }
-topnav a.active {
+.topnav a.active {
 	background-color: #2B2C2E;
 	color: white;
 }
 
-content {
+.content {
 	overflow: hidden;
 	background-color: white;
 	padding: 15px 15px 15px 15px;
 }
-content p {
+.content p {
 }
 
-footer {
+.footer {
 	overflow: hidden;
 	background-color: #2B2C2E;
 	margin: 5px 10px 10px 10px;
@@ -74,13 +74,12 @@ footer {
 	color: white;
 	text-align: right;
 }
-
-rigth {
+.footer rigth {
 	overflow: hidden;
 	float: right;
 	text-align: right;
 }
-left {
+.footer left {
 	overflow: hidden;
 	float: left;
 	text-align: left;
