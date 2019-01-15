@@ -1,0 +1,9 @@
+topnav:
+    - page: Home
+      url: /
+    - page: Wiki
+      url: /wiki
+    - page: Credits
+      url: /credits
+    - page: Contact
+      url: /Contact

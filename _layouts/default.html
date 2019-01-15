@@ -19,10 +19,9 @@
 	</div>
 	<div class="frame">
 		<div class="topnav">
-			<a class="active" href="/">Home</a>
-			<a href="/wiki">Wiki</a>
-			<a href="#contact">Contact</a>
-			<a href="#about">About</a>
+			{% for entry in  site.data.nav.topnav %}
+				<a class="{% if entry.url == page.url %}active{% endif %}" href="{{ entry.url }}">{{ entry.page }}</a>
+			{% endfor %}
 		</div>
 		<div class="content">
 			{{ content }}
