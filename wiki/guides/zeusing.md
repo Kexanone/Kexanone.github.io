@@ -1,6 +1,3 @@
----
-layout: wiki
----
 ### Contents:
 1. [Notes](https://github.com/oOKexOo/AresModAchillesExpansion/wiki/Zeus-Guides#notes)
 2. [Basic: _Liru the Lance Corporal_'s "All you need to know about being a Zeus"](https://github.com/oOKexOo/AresModAchillesExpansion/wiki/Zeus-Guides#basic-liru-the-lance-corporals-all-you-need-to-know-about-being-a-zeus)
