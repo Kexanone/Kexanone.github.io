@@ -3,12 +3,8 @@ markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
         disable: true
-# defaults:
-    # - scope:
-          # path: 
-      # values:
-          # layout: default-md
-    # - scope:
-          # path: /wiki/*
-      # values:
-          # layout: wiki
+defaults:
+     - scope:
+           path: /wiki/*
+       values:
+           layout: wiki
