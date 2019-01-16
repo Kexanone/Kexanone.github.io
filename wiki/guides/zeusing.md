@@ -1,5 +1,5 @@
 ---
-layout: default-md
+layout: wiki
 ---
 ### Contents:
 1. [Notes](https://github.com/oOKexOo/AresModAchillesExpansion/wiki/Zeus-Guides#notes)
