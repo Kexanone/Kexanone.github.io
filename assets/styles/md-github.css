@@ -1,4 +1,7 @@
 .md-github {
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+    font-size: 16px;
+    line-height: 1.5;
 }
 .md-github>:first-child {
     margin-top: 0!important;
@@ -35,4 +38,22 @@
 .md-github blockquote, .md-github dl, .md-github ol, .md-github p, .md-github pre, .md-github table, .md-github ul {
     margin-bottom: 16px;
     margin-top: 0;
+}
+
+.md-github li+li {
+    margin-top: .25em;
+}
+
+.md-github a {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.md-github code {
+    display: block;
+    padding: 1em;
+    background: #500;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #400 #700 #700 #400;
 }
