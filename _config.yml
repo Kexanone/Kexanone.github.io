@@ -5,6 +5,12 @@ kramdown:
         disable: true
 defaults:
      - scope:
+           path: /main/
+       values:
+           permalink: /:title/
+           layout: default-md
+     - scope:
            path: /wiki/
        values:
            layout: wiki
+
