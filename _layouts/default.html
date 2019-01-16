@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<script src="/assets/scripts/github.js"></script>
 <head>
 	<meta charset="utf-8">
 	<title>Arma 3 Achilles</title>
@@ -24,14 +23,9 @@
 				<a class="{% if entry.url == page.url %}active{% endif %}" href="{{ entry.url }}">{{ entry.name }}</a>
 			{% endfor %}
 		</div>
-		<div id="md" class="content">
+		<div class="content">
 			{{ content }}
 		</div>
-		<script>
-			/* GitHub.include.markdown("md", "https://github.com/oOKexOo/oOKexOo.github.io/blob/master/README.md"); */
-			GitHub.include.markdown("md", "https://raw.githubusercontent.com/ArmaAchilles/Achilles/master/README.md");
-
-		</script>
 	</div>
 	<div class="footer">
 		<left>© 2019 Achilles Dev Team</left>
