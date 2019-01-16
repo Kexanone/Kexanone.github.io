@@ -5,6 +5,6 @@ kramdown:
         disable: true
 defaults:
      - scope:
-           path: /wiki/
+           path: "wiki"
        values:
            layout: wiki
