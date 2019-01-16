@@ -1,0 +1,38 @@
+.md-github {
+}
+.md-github>:first-child {
+    margin-top: 0!important;
+}
+.md-github h1, .md-github h1, .md-github h2, .md-github h3, .md-github h4, .md-github h5, .md-github h6 {
+	font-weight: 600;
+	line-height: 1.25;
+	margin-bottom: 16px;
+	margin-top: 24px;
+}
+.md-github h1, .md-github h2 {
+    border-bottom: 1px solid #eaecef;
+    padding-bottom: .3em;
+}
+.md-github h1 {
+    font-size: 2em;
+}
+.md-github h2 {
+    font-size: 1.5em;
+}
+.md-github h3 {
+    font-size: 1.25em;
+}
+.md-github h4 {
+    font-size: 1em;
+}
+.md-github h5 {
+    font-size: .875em;
+}
+
+.md-github ol, .md-github ul {
+    padding-left: 2em;
+}
+.md-github blockquote, .md-github dl, .md-github ol, .md-github p, .md-github pre, .md-github table, .md-github ul {
+    margin-bottom: 16px;
+    margin-top: 0;
+}
