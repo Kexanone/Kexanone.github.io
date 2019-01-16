@@ -1,6 +1,6 @@
 topnav:
     - name: Home
-      url: /
+      url: /home/
     - name: Wiki
       url: /wiki/
     - name: Credits
