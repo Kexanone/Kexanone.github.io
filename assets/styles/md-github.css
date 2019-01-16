@@ -50,5 +50,6 @@
 }
 
 .md-github code {
-    border: 1px dashed #2f6fab;
+    border: 1px solid;
+    border-color: #696969 #b5b5b5 #b5b5b5 #696969;
 }
