@@ -1,6 +1,5 @@
 ---
 layout: default-md
-permalink: /:title/
 ---
 <h1>Achilles</h1>
 <p>Some content..</p>
