@@ -1,5 +1,5 @@
 ---
-permalink: /:title/
+permalink: /home/
 ---
 
 # Achilles
