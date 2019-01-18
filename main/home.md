@@ -1,3 +1,7 @@
+---
+permalink: /:title/
+---
+
 # Achilles
 Some content..
 **markdown**
