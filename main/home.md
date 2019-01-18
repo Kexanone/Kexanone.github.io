@@ -1,7 +1,3 @@
----
-permalink: /home/
----
-
 # Achilles
 Some content..
 **markdown**
