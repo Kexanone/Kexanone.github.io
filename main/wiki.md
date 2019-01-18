@@ -1,8 +1,8 @@
 ---
 layout: wiki
-permalink: /wiki/
+permalink: /:title/
 ---
 # Wiki
 <p>Some content...</p>
-ttt
+t
 <p>Some content...</p>
