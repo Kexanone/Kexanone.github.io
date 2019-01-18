@@ -3,5 +3,5 @@ layout: wiki
 ---
 # Wiki
 <p>Some content...</p>
-tt
+t
 <p>Some content...</p>
