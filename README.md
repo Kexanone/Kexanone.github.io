@@ -1,3 +1,3 @@
-# oOKexOo.github.io
+# Kexanone.github.io
 Just playing around with Github pages...  
-See [oOKexOo.github.io](https://oOKexOo.github.io).
+See [Kexanone.github.io](https://Kexanone.github.io).
